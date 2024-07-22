@@ -1,4 +1,4 @@
-# Fine-Tuning Donut Transformer For Document Classification  📄🤖
+# Fine-Tuning Donut Transformer For Document Classification  📄🤖🍩
 
 Here's the repo with the notebooks used to compare two Donut approaches for Document Classification: the traditional encoder-decoder approach and a more efficient encoder-only approach. The encoder-only method significantly reduces inference time while maintaining similar accuracy.
 
