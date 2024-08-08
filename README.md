@@ -12,4 +12,4 @@ Here's the repo with the notebooks used to compare two Donut approaches for Docu
 Note that the accuracy of both models is low, as this is a toy experiment using a small subset of the dataset, intended for quick computation of metrics. However, this provides valuable insights for real use-cases.
 
 ### Medium Article  📑
-For detailed methods and results, read the full article [here](#).  
+For detailed methods and results, read the full article [here](https://medium.com/qantev/fine-tuning-donut-transformer-for-document-classification-f1db9739398f).  
